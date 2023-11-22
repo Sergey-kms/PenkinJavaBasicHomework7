@@ -1,6 +1,6 @@
 package ru.java.basic.penkin.homework7;
 
-class Human {          // В гитхаб master
+class Human {          // В гитхаб branch1
     private String name;
     private Transport currentTransport;
 

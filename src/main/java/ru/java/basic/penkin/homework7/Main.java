@@ -1,6 +1,6 @@
 package ru.java.basic.penkin.homework7;
 
-public class Main {           // В гитхаб master
+public class Main {           // В гитхаб branch1
     public static void main(String[] args) {
         Human human = new Human("Владимир");
 
